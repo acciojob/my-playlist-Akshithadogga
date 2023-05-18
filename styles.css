@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+}
+.player_one{
+	width:85%;
+	height:25vh;
+	padding:10px,5px;
+	background-color:white;
+}
+.play-list{
+	background-color:#cccccc;
+}
+a{
+	text-decoration:none;
+	color: #cccccc;
+}
