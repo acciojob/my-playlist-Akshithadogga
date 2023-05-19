@@ -26,8 +26,9 @@ body{
 a{
 	text-decoration:none;
 }
-p{
-	text-align:center;}
+h2{
+	text-align:center;
+}
 .play-list{
 	display:grid;
 	justify-items:center;
