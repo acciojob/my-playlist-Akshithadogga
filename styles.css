@@ -3,16 +3,32 @@
 	margin:0px;
 	padding:0px;
 }
+body{
+	background-color:#cccccc;
+}
 .player_one{
 	width:85%;
-	height:25vh;
-	padding:10px,5px;
+	height:15vh;
+	padding:15px;
 	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+/* 	margin-left:25px; */
 }
-.play-list{
-	background-color:#cccccc;
+.player_two{
+	width:47%;
+	height:60vh;
+	padding:15px;
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
 }
 a{
 	text-decoration:none;
-	color: #cccccc;
+}
+p{
+	text-align:center;}
+.play-list{
+	display:grid;
+	justify-items:center;
 }
